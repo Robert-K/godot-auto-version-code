@@ -1,0 +1,1 @@
+# godot-auto-version-code
